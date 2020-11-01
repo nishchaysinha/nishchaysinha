@@ -1,12 +1,7 @@
 ### 👀
 ### ...
 ##### about:
-- Currently I am a student.
-- 🔭 I’m currently working on my github actions and my profile-readme. 
-- 🌱 I’m currently learning C, intermediate Python.
-- 🌱 I’m learning how to make better documentation.
-- 🌱 I’m learning how to automate my github flow.
-- 🌱 GO PLANT SOME TREES AT [TEAM TREES](https://teamtrees.org/)
+- I like tinkering
 
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
