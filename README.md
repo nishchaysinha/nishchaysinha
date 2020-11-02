@@ -28,6 +28,7 @@
 </a>
 
 </br>
+
 ![Profile-trophy](https://github-profile-trophy.vercel.app/?username=nishchaysinha&column=7&theme=gruvbox%22)
 
 
