@@ -26,6 +26,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Python](https://img.shields.io/badge/-Python-8b4c62?style=for-the-badge&logo=python&logoColor=black)
 
 ![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
