@@ -16,9 +16,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graphics-Blender-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![Nishchay's github stats](https://github-readme-stats.vercel.app/api?username=nishchaysinha&theme=synthwave)
-
-
 ---
 
 ## 📈 **Github Stats:**
@@ -31,7 +28,7 @@
 </a>
 
 </br>
-![Profile-trophy](https://github-profile-trophy.vercel.app/?username=nishchay-sinha&column=7&theme=gruvbox%22)
+![Profile-trophy](https://github-profile-trophy.vercel.app/?username=nishchaysinha&column=7&theme=gruvbox%22)
 
 
 ## 🛠️ **Languages & Tools:**
