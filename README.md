@@ -21,11 +21,11 @@
 
 ## 🔧 **Languages & Tools:**
 
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-8b4c62?style=for-the-badge&logo=python&logoColor=black)
 ![Bash](https://img.shields.io/badge/-bash-4EAA25?style=for-the-badge&logo=GNU-bash&logoColor=white)
 
