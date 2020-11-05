@@ -31,10 +31,10 @@
 
 <!--Ping me and tell me your stack so that I can add more-->
 <p>
+  <img alt="Linux" src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Vim" src="https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim"/>
   <img alt="VSCode" src="https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code" />
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
