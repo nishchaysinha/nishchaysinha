@@ -8,7 +8,7 @@
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/nishcaysinha">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=nishchaysinha&show_icons=true&include_all_commits=true&theme=synthwave&count_private=true">
+<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=nishchaysinha&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true">
 </a>
 <a href="https://github.com/nishchaysinha/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nishchaysinha&layout=compact&theme=tokyonight" />
@@ -16,7 +16,7 @@
 
 </br>
 
-![Profile-trophy](https://github-profile-trophy.vercel.app/?username=nishchaysinha&column=7&theme=synthwave%22)
+![Profile-trophy](https://github-profile-trophy.vercel.app/?username=nishchaysinha&column=7&theme=tokyonight%22)
 
 
 ## 🔧 **Languages & Tools:**
