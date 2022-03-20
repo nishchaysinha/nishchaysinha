@@ -13,8 +13,6 @@ this got awkward fast 👀
 
 </br>
 
-![Profile-trophy](https://github-profile-trophy.vercel.app/?username=nishchaysinha&column=7&theme=tokyonight%22)
-
 
 ## 🔧 **Languages & Tools:**
 
