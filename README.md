@@ -1,8 +1,5 @@
 ### 👀
-##### about:
-- I like tinkering
-- I like writing scripts
-- this got awkward fast 👀
+this got awkward fast 👀
 
 
 ## 📈 **Github Stats:**
