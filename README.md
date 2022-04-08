@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishchaysinha" alt="nishchaysinha" /></a> </p>
 
-- 🔭 I’m currently working on **My own game engine (Karnot Engine{yes ik its a really nice name})**
+-  I’m currently working on **My own game engine (Karnot Engine{yes ik its a really nice name})**
 
-- 🌱 I’m currently learning **Vulkan and Solidity**
+-  I’m currently learning **Vulkan and Solidity**
 
-- ⚡ Fun fact **I've programmed a toaster to work as a controller**
+-  Fun fact **I've programmed a toaster to work as a controller**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
