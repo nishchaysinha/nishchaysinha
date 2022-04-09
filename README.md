@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "250px" src="banner.gif" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👀, I'm Nishchay</h1>
 <h3 align="center">I like to learn new things</h3>
 
