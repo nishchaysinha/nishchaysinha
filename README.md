@@ -1,8 +1,10 @@
+<h1 align="center">Hi 👀, I'm Nishchay</h1>
+
 <div align="center">
 <img width="100%" src="banner.gif" alt="cover" />
 </div>
 
-<h1 align="center">Hi 👀, I'm Nishchay</h1>
+
 <h3 align="center">I like to learn new things</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishchaysinha" alt="nishchaysinha" /></a> </p>
