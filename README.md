@@ -11,7 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=nishchaysinha&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nishchaysinha&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaysinha&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+<a href="https://discord.com/users/367598738429968384">
+  <img src="https://lanyard-profile-readme.vercel.app/api/367598738429968384?borderRadius=25px" />
 ---
 [![](https://visitcount.itsvg.in/api?id=nishchaysinha&icon=2&color=7)](https://visitcount.itsvg.in)
 
