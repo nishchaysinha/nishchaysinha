@@ -14,6 +14,7 @@
 <a href="https://discord.com/users/367598738429968384">
   <img src="https://lanyard-profile-readme.vercel.app/api/367598738429968384?borderRadius=25px" />
 ---
-[![](https://visitcount.itsvg.in/api?id=nishchaysinha&icon=2&color=7)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=nishchaysinha&color=red)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
