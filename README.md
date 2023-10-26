@@ -10,7 +10,7 @@
 
 <a href="https://discord.com/users/367598738429968384">
   <img src="https://lanyard-profile-readme.vercel.app/api/367598738429968384?borderRadius=25px" />
----
+
 ![](https://komarev.com/ghpvc/?username=nishchaysinha&color=red)
 
 
